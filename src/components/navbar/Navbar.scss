@@ -1,0 +1,31 @@
+.navbar {
+  align-items: center;
+  background-color: #cd890c;
+  display: flex;
+  font-family: 'Rubik Distressed', cursive;
+  justify-content: space-between;
+  padding: 0 1rem;
+  text-transform: uppercase;
+  width: 100%;
+  .logo {
+    display: flex;
+    width: 20%;
+    img {
+      width: 100px;
+    }
+  }
+  .links {
+    align-items: center;
+    display: flex;
+    font-size: 1.5rem;
+    gap: 2%;
+    justify-content: space-between;
+    justify-content: flex-end;
+    width: 80%;
+    a {
+      color: #171b20;
+      padding: 0.5rem;
+      text-decoration: none;
+    }
+  }
+}
