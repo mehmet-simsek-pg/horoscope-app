@@ -1,8 +1,14 @@
 @import "./scss/button";
 @import "./scss/reset";
-@import "./scss/variable";
+@import "./scss/variables";
 
-body,
+body {
+  background-image:$backgroundImage;
+  font-family: $font-body;
+  height: 100vh;
+  background-attachment: fixed;
+}
 p {
-  font-family: "Almendra Display", cursive;
+  font-family: $font-p;
+  color: white;
 }

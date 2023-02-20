@@ -1,4 +1,4 @@
-const data = [
+export const data = [
   {
     id: 1,
     title: "Aries",
@@ -96,5 +96,3 @@ const data = [
       "https://drscdn.500px.org/photo/133570805/q%3D80_m%3D2000/v2?sig=bb1629ac72814ee2d470f0f1551992ea2b0d72acac4e81af5b76aed5c9e99020",
   },
 ];
-
-export default data;

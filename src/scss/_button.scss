@@ -1,4 +1,4 @@
-@import "./variable";
+@import "./variables";
 
 .btn-container {
   button {
@@ -8,11 +8,11 @@
     margin-bottom: 5px;
   }
   &-small {
-    background-color: $red;
+   
     padding: 5px;
   }
   &-large {
-    background-color: $green;
+   
     width: 60px;
     padding: 5px;
   }
