@@ -1,4 +1,4 @@
-# Horoscope App
+# Horoscope App using ReactJS
 
 ## Project Skeleton
 
