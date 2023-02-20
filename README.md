@@ -1,5 +1,7 @@
 # Horoscope App using ReactJS
 
+The deployed version of this [app](https://horoscope-mehmet.netlify.app/)
+
 ## Project Skeleton
 
 ```
